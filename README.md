@@ -1,5 +1,5 @@
 
-# Enron Credit
+# Enron Direct
 
 A restored, mostly working, copy of the Enron's Enron Direct website. A part of the **Enron Archive**.
 
